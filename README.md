@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Thorat</h1>
-<h2 align="center">I’m an Open-Source enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h2>
-<h2 align="center">I’m passionate about Web Development and learn new skills.</h2>
+<h3 align="center">I’m an Open-Source enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
+<h3 align="center">I’m passionate about Web Development and learn new skills.</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
