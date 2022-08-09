@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Thorat</h1>
 <h3 align="center">I’m an Open-Source enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
 <h3 align="center">I’m passionate about Web Development and learning new skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429".gif>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
 
