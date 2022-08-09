@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vedant2703" target="blank"><img src="https://img.shields.io/twitter/follow/vedant2703?logo=twitter&style=for-the-badge" alt="vedant2703" /></a> </p>
-
 - 🌱 I’m currently learning **DSA and Web Development**
 
 - 📫 How to reach me **vedant.thorat27@gmail.com**
