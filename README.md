@@ -3,7 +3,7 @@
 <h3 align="center">I’m passionate about Web Development and learning new skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
+/* <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p> */
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
