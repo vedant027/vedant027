@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
 
-- 🌱 I’m currently learning **DSA and Web Development**
+- 🧑‍💻 I’m currently learning **DSA and Web Development**
 
 - 📫 How to reach me **vedant.thorat27@gmail.com**
 
