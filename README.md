@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Thorat</h1>
-<h3 align="center">I’m an Open-Source enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
+<h3 align="center">I’m an Open-Source enthusiast, pursuing my Bachelors in Electronics Engineering.</h3>
 <h3 align="center">I’m passionate about Web Development and learning new skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
