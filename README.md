@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I’m currently learning **DSA and Web Development**
 
-- 📫 How to reach me **vedant.thorat27@gmail.com**
+- ✉️ How to reach me **vedant.thorat27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
